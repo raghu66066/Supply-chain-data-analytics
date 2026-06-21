@@ -172,5 +172,5 @@ and provide clear, actionable recommendations for decision-makers.
 ---
 
 ## 👤 Author
-**Manoel Vuu**  
-📧manoelvuu@gmail.com | 🌐 [Portfolio](https://bit.ly/ManoelVuu)
+**Raghu G**  
+📧raghu66066@gmail.com 
