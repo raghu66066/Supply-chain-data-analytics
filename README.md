@@ -164,12 +164,6 @@ and provide clear, actionable recommendations for decision-makers.
  
 ---
 
-## 📌 Next Steps
-- Automate refresh with Power BI Service.  
-- Expand analysis with predictive modeling (future demand & supplier risk).  
-- Integrate additional logistics KPIs for deeper optimization.  
-
----
 
 ## 👤 Author
 **Raghu G**  
