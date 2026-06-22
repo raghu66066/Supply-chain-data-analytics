@@ -108,8 +108,8 @@ and provide clear, actionable recommendations for decision-makers.
 ### 📦 Inventory Management
 <img width="1273" height="716" alt="Inventory Management" src="https://github.com/raghu66066/Supply-chain-data-analytics/blob/585d7689c6a0c5afc4918d0435874059bf254ea2/Powerbi_image/inventory%20management.png" />
 
-- Only 10% of products have balanced stock levels.
-- 44% are fast-moving, 38% understocked, 7% critically short.
+- Only 12% of products have balanced stock levels.
+- 46% are fast-moving, 39% understocked, 2% Overstocked.
 - High-risk SKUs: SKU78 and SKU47 (low stock + lead times >7 days).
   
 ➡️ Implication: Misaligned stock levels increase risk of stockouts and excess holding costs.
