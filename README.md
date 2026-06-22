@@ -110,7 +110,6 @@ and provide clear, actionable recommendations for decision-makers.
 
 - Only 12% of products have balanced stock levels.
 - 46% are fast-moving, 39% understocked, 2% Overstocked.
-- High-risk SKUs: SKU78 and SKU47 (low stock + lead times >7 days).
   
 ➡️ Implication: Misaligned stock levels increase risk of stockouts and excess holding costs.
 
